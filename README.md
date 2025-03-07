@@ -45,22 +45,17 @@ Hello! My name is Linda Uchenwoke, also known as thegirlcoderr, and I am an aspi
 
 ### Stratascratch-Solutions
 
-- **Easy**: [ ] Completed [ ] In Progress [ ] Not Started
-- **Intermediate**: [ ] Completed [ ] In Progress [ ] Not Started
-- **Advanced**: [ ] Completed [ ] In Progress [ ] Not Started
+- **Easy**:
+- **Intermediate**:
+- **Advanced**:
 
 ### DataCamp-Projects
 
-- [ ] Project 1: Analyzing Sales Data
-- [ ] Project 2: Customer Segmentation
-- [ ] Project 3: Inventory Management System
-- [ ] Project 4: Financial Data Reporting
+-
 
 ### Personal-Projects
 
-- [ ] Project 1: Movie Database Analysis
-- [ ] Project 2: E-commerce Data Exploration
-- [ ] Project 3: Social Media Data Insights
+-
 
 ## Contact Information
 
