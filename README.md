@@ -31,9 +31,7 @@ I would like to thank the platforms and mentors who provided the learning resour
 Hello! My name is Linda Uchenwoke, also known as **thegirlcoderr**, and I am a Data Engineer with a strong background in SQL and data manipulation. I am eager to apply my skills to real-world projects. My goal is to leverage data to drive business insights and make data-driven decisions as a Data Engineer.
 
 ## Contact Information
-- **Email**: linda.uchenwoke@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-github-profile)
+- **GitHub**: [@thegirlcoderr](https://github.com/thegirlcoderr)
 
 Feel free to reach out to me for any collaboration opportunities or inquiries. Thank you for visiting my SQL portfolio!
 
