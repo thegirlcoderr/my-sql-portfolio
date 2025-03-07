@@ -1,1 +1,0 @@
-# Advanced Stratascratch Solutions
