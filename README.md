@@ -1,35 +1,48 @@
-# My SQL Portfolio
+# **SQL Portfolio**  
+📊 *Showcasing My SQL Projects & Solutions*  
 
-Welcome to my SQL portfolio! This repository is a collection of my work in SQL, including practice problems, course projects, and personal projects that showcase my data manipulation and querying skills.
+Welcome to my SQL portfolio! This repository contains SQL projects and exercises categorized by skill level, demonstrating my ability to manipulate, analyze, and query data effectively.  
 
-## Table of Contents
-- [Stratascratch Solutions](#stratascratch-solutions)
-- [DataCamp Projects](#datacamp-projects)
-- [Personal Projects](#personal-projects)
-- [Acknowledgment](#acknowledgment)
-- [Author](#author)
+---
 
+## **📖 Table of Contents**  
+- [Beginner Projects](#beginner-projects)  
+- [Intermediate Projects](#intermediate-projects)  
+- [Advanced Projects](#advanced-projects)  
+- [StrataScratch Solutions](#stratascratch-solutions)  
+- [Acknowledgments](#acknowledgments)  
+- [About Me](#about-me)  
 
-## Stratascratch Solutions
-This folder contains my solutions to Stratascratch SQL problems, categorized by difficulty:
+---
 
-- **Easy**: Beginner-friendly problems to build fundamental SQL skills.
-- **Intermediate**: Problems of moderate difficulty to enhance SQL proficiency.
-- **Advanced**: Challenging problems to test and improve advanced SQL skills.
+## **📂 Beginner Projects**  
+SQL exercises and small projects focused on fundamental querying skills.  
 
-## DataCamp Projects
-This folder contains my completed projects from DataCamp courses. These projects demonstrate my ability to apply SQL skills to real-world scenarios and datasets.
+---
 
-## Personal Projects
-This folder contains my personal SQL projects. These projects showcase my creativity and ability to tackle data challenges independently.
+## **📂 Intermediate Projects**  
+More complex SQL projects involving joins, subqueries, and data analysis.  
 
-#
-## Acknowledgment
-I would like to thank the platforms and mentors who provided the learning resources and guidance to help me along this journey.
+---
 
-## Author
-Hello! My name is Linda Uchenwoke, also known as **thegirlcoderr**, and I am a Data Engineer with a strong background in SQL and data manipulation. I am eager to apply my skills to real-world projects. My goal is to leverage data to drive business insights and make data-driven decisions as a Data Engineer.
+## **📂 Advanced Projects**  
+High-level SQL projects covering advanced querying techniques, optimization, and database management.  
 
+---
 
-Feel free to reach out to me for any collaboration opportunities or inquiries. Thank you for visiting my SQL portfolio!
+## **📂 StrataScratch Solutions**  
+This section contains SQL solutions to **StrataScratch** problems, organized by difficulty level.  
 
+---
+
+## **🙏 Acknowledgments**  
+I appreciate platforms like **SQLBolt, StrataScratch, and DataCamp** for providing valuable exercises that strengthened my SQL skills.  
+
+---
+
+## **👩‍💻 About Me**  
+Hello! My name is **Linda Uchenwoke**, also known as **thegirlcoderr**. I am a **Data Engineer** with expertise in SQL and data manipulation. I aim to use SQL to extract insights, optimize databases, and support data-driven decision-making.  
+
+---
+
+### **⭐ If you find this repository helpful, consider giving it a star!** 🌟  
