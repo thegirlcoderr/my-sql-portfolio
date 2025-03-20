@@ -2,7 +2,7 @@
 
 This exercise contains SQL queries that demonstrate how to filter, sort, and limit data using SQL.
 
-## Table: `north_american_cities`
+## Table: `North_american_cities`
 
 | City                | Country       | Population | Latitude  | Longitude   |
 | ------------------- | ------------- | ---------- | --------- | ----------- |
