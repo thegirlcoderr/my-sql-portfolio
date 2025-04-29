@@ -1,0 +1,22 @@
+# Ignore system files
+.DS_Store
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore compiled files
+*.out
+*.class
+
+# Ignore environment files
+.env
+
+# Ignore SQLite database files
+*.sqlite
+*.db
+
+*.sql~
